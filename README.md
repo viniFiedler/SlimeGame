@@ -1,2 +1,2 @@
 # SlimeGame
-A game about an slime
+A game about a slime
