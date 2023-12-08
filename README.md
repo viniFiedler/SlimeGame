@@ -1,4 +1,5 @@
 # SlimeGame
+<<<<<<< HEAD
 
 ## As Aventuras de Mi
 
@@ -92,3 +93,6 @@ O jogador pode ganhar pontos ao responder perguntas de forma correta e perde pon
 ### Interface
 
 A interface é simples e contem poucos botões para ser extremamente intuitiva. As letras são grandes e facilmente lidas
+=======
+A game about a slime
+>>>>>>> 80cd9acad6586655c07e32a27e773fba3be7b127
