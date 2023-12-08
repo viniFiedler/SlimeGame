@@ -1,5 +1,4 @@
 # SlimeGame
-<<<<<<< HEAD
 
 ## As Aventuras de Mi
 
